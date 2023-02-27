@@ -1,16 +1,19 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/* This a header file containing declarations
+/*
+ * This a header file containing declarations
  * for prototype functions defined in the 0x05-more-functions_nested_loops
  * tasks and directory
  * This is like creating my own library with declared functions
  * The tasks defines  the functions
  */
 
-/*enclosing the files  contentinbetween ifndef,define and endif,		      
-stops the compiler from processing the file twice if its included twice,
-if not so, this will cause an error*/
+/*
+ * enclosing the files  contentinbetween ifndef,define and endif,
+ * stops the compiler from processing the file twice if its included twice,
+ * if not so, this will cause an error
+ */
 
 
 void reset_to_98(int *n);
