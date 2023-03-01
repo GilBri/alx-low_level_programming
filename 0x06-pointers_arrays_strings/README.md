@@ -45,7 +45,7 @@
 
   * [102-magic.c](./102-magic.c): C program that prints `a[2] = 98` using pointer magic.
     * Completion of [this source code](https://github.com/holbertonschool/make_magic_happen/blob/master/magic.c).
-    
+
   * [103-infinite_add.c](./103-infinite_add.c): C function that adds two numbers stored
   in strings to a buffer.
     * Assumes that strings are never empty and that numbers will always be positive, or 0.
