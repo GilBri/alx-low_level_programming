@@ -2,10 +2,12 @@
 #define MAIN_H
 
 /*
- * This header file contains declarations for prototype functions defined in the 0x07-more-functions_nested_loops tasks and directory.
+ * This header file contains declarations for prototype functions defined in the 0x07-pointers_arrays_strings
+ * tasks and directory.
  * The tasks define the functions.
  *
- * enclosing the files content in between ifndef, define and endif, stops the compiler from processing the file twice if it is included twice.
+ * enclosing the files content in between ifndef, define and endif,
+ * stops the compiler from processing the file twice if it is included twice.
  * If not so, this wilcause an error.
  */
 
