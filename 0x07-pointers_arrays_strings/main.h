@@ -2,8 +2,8 @@
 #define MAIN_H
 
 /*
- * This header file contains declarations for prototype functions defined in the 0x07-pointers_arrays_strings
- * tasks and directory.
+ * This header file contains declarations for prototype functions defined in
+ * 0x07-pointers_arrays_strings tasks and directory.
  * The tasks define the functions.
  *
  * enclosing the files content in between ifndef, define and endif,
