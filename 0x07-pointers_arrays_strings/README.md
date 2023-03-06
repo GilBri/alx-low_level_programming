@@ -3,7 +3,7 @@
 Tasks for this project:-
 ## Tasks file description;
   * [main.h](./main.h): Header file containing prototypes for all functions written
-  
+
   * [0-memset.c](./0-memset.c): C function that fills the first `n` bytes of
   memory area pointed to by `s` with the constant byte `b`.
     * Returns a pointer to the filled memory area `s`.
@@ -29,7 +29,7 @@ Tasks for this project:-
     * The terminating null bytes (`\0`) are not compared.
     * Returns a pointer to the beginning of the located substring.
     * If the substring is not found, the function returns `NULL`.
-    
+
   * [7-print_chessboard.c](./7-print_chessboard.c): C function that prints the chessboard.
 
   * [8-print_diagsums.c](./8-print_diagsums.c): C function that prints the sum of the two
