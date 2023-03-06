@@ -29,7 +29,7 @@ Tasks for this project:-
     * The terminating null bytes (`\0`) are not compared.
     * Returns a pointer to the beginning of the located substring.
     * If the substring is not found, the function returns `NULL`.
-
+    
   * [7-print_chessboard.c](./7-print_chessboard.c): C function that prints the chessboard.
 
   * [8-print_diagsums.c](./8-print_diagsums.c): C function that prints the sum of the two
