@@ -17,6 +17,7 @@ working in the C language. I update this repo with my learning progresses with h
 * [0x09. C - Static libraries](./0x09-static_libraries)
 * [0x0A. C - argc, argv](./0x0A-argc_argv)
 * [0x0B. C - malloc, free](./0x0B-malloc_free)
+* [0x0C. C - more_malloc_free](./0x0C-more_malloc_free)
 
 - more projects are coming soon!!
 - I am on my way to be the best software engineer that I  can possibly  be!!
