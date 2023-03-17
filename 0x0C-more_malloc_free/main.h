@@ -9,9 +9,11 @@
  * The tasks defines  the functions
  */
 
-/*enclosing the files  contentinbetween ifndef,define and endif,		      
-stops the compiler from processing the file twice if its included twice,
-if not so, this will cause an error*/
+/*
+ * enclosing the files  contentinbetween ifndef,define and endif,
+ * stops the compiler from processing the file twice if its included twice,
+ * if not so, this will cause an error
+ */
 
 int _putchar(char c);
 void *malloc_checked(unsigned int b);
