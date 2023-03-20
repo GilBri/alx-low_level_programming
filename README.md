@@ -18,6 +18,9 @@ working in the C language. I update this repo with my learning progresses with h
 * [0x0A. C - argc, argv](./0x0A-argc_argv)
 * [0x0B. C - malloc, free](./0x0B-malloc_free)
 * [0x0C. C - more_malloc_free](./0x0C-more_malloc_free)
+* [0x0D. C -preprocessor](./0x0D-preprocessor)
+* [0x0E. C -structures_typedef](./0x0E-structures_typedef)
+
 
 - more projects are coming soon!!
 - I am on my way to be the best software engineer that I  can possibly  be!!
