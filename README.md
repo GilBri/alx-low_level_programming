@@ -22,6 +22,7 @@ working in the C language. I update this repo with my learning progresses with h
 * [0x0E. C -structures_typedef](./0x0E-structures_typedef)
 * [0x0F. C -function_pointers](./0x0F-function_pointers)
 * [0x10. C -variadic_functions](./0x10-variadic_functions)
+* [0x12. C -singly_linked_lists](./0x12-singly_linked_lists)
 
 - more projects are coming soon!!
 - I am on my way to be the best software engineer that I  can possibly  be!!
