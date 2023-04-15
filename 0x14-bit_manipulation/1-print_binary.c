@@ -7,19 +7,19 @@
 void print_binary(unsigned long int n)
 {
 	unsigned long int mask = 1;
-	int bit_count = sizeof(unsigned long int) * 8;
+	int len = sizeof(unsigned long int) * 8 - 1, flag = 0;
 
-	while (mask << 1)
-		mask <<= 1;
-
-	while (bit_count--)
+	while (len >= 0)
 	{
-		if (mask & n)
+		if ((n >> len) & 1)
+		{
+			flag = 1;
 			_putchar('1');
-		else
+		}
+		else if (flag == 1 || len == 0)
 			_putchar('0');
 
-		mask >>= 1;
+		len--;
 	}
 }
 
