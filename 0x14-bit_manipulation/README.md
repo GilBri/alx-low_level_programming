@@ -1,4 +1,5 @@
-Bit Manipulation 
+Bit Manipulation
+
 Tasks file description:
 main.h:Header file containing prototypes for all functions written in the project.
 
