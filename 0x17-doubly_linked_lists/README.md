@@ -25,12 +25,3 @@ To use a doubly linked list, you need to perform several operations:
 5. **Updating**: You can update the data within a node if needed.
 
 Doubly linked lists offer several advantages over singly linked lists, such as easier traversal in both directions and the ability to efficiently remove nodes from the middle of the list. However, they also require slightly more memory due to the additional "prev" pointers.
-
-Here's a basic example of how to define a doubly linked list node structure in the C programming language:
-
-```c
-struct Node {
-    int data;
-    struct Node* prev;
-    struct Node* next;
-};
